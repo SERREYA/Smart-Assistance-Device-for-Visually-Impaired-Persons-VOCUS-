@@ -112,3 +112,26 @@ All system outputs are delivered to the user through **audio feedback**, ensurin
 sudo apt update
 sudo apt install tesseract-ocr python3-opencv python3-numpy
 pip install pytesseract pillow pyserial
+
+```
+### ▶️ Usage
+-Power ON the device
+-System initializes sensors automatically
+-Camera and LiDAR begin monitoring surroundings
+-OCR detects and reads printed text
+-Audio feedback guides the user in real time
+-Emergency SMS is sent when required
+
+### 🚀 Future Improvements
+-Multilingual OCR support
+-Handwritten text recognition
+-GPS integration for navigation
+-AI-based object classification
+-Noise-adaptive and bone-conduction audio
+-Power optimization for extended battery life
+
+### 👤 Author / About
+Kothalawala K.D.A.U / Suresh Kasun / Edfrith Enoch
+Undergraduates – Engineering / Technology
+Sri Lanka 
+This project was developed as an assistive technology solution to improve independence, safety, and accessibility for visually impaired individuals using embedded systems and computer vision.
